@@ -17,12 +17,9 @@ navbar-links:
   About Me: "aboutme"
   Projects:
     - Species Distribution Modeling: "SDM"
-    - Chemotaxis Index: "CI"
-    - CellProfiler-nf: "cellprofiler"
   Publications: "publications"
   About Tim: 
   - About me: "aboutme"
-  - Contact me: "contactme"
 
 # --- Logo --- #
 
@@ -79,7 +76,7 @@ rss-description: This website is a virtual proof that I'm awesome
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   linkedin: true
   vk: false
 
