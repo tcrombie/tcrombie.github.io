@@ -14,7 +14,6 @@ author: Timothy (Tim) Crombie
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
   Projects:
     - Species Distribution Modeling: "SDM"
   Publications: "publications"
