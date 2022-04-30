@@ -3,11 +3,11 @@ layout: page
 title: Publications
 ---
 
-### Preprints
+## Preprints
 
 Fouad AD, Churgin MA, Hayden J, Xu J, Park JI, Liu A, Teng C, Sun H, Parrado M, Bowlin P, De La Torre M, **Crombie TA**, Sedore CA, Coleman-Hulbert AL, Johnson E, Philips P, Andersen EC, and Fang-Yen C 2021 [High-throughput imaging of <i>Caenorhabditis elegans</i> aging using collective activity monitoring](https://doi.org/10.1101/2021.10.18.464905). bioRxiv.
 
-### Publications
+## Publications
 
 **2022**
 
