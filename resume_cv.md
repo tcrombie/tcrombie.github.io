@@ -6,4 +6,4 @@ title: Resume/CV
 ### Resume
 
 ### CV
-[CV]({% link /assets/files/*.pdf %})
+[CV]({% link /assets/files/20220502_Crombie_CV.pdf %})
