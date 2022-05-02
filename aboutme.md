@@ -31,11 +31,5 @@ title: About me
 ### Leadership & Outreach
 
 ### Select Honors and Awards
-* Outstanding Dissertation Award (Sept. 2020)
-* Invited speaker at international conference: Anthelmintics IV: From Discovery to Resistance (Feb. 2020)
-* Trainee: NSF-Simons Center for Quantitative Biology (Jan. 2020 - June 2020)
-* Trainee: Cellular and Molecular Basis of Disease Training Program (Sept. 2017 - Aug. 2019)
-* Undergraduate Research Scholar (May 2015)
-* T.V. Hanks Endowed Scholarship in Science and Mathematics (March 2012))
 
 ### Skills & Interests

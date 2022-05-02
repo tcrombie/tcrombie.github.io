@@ -17,8 +17,7 @@ navbar-links:
   Projects:
     - Species Distribution Modeling: "SDM"
   Publications: "publications"
-  About Tim: 
-  - About me: "aboutme"
+  Resume/CV: "resume_cv.md"
 
 # --- Logo --- #
 
