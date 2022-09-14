@@ -5,13 +5,17 @@ title: Publications
 
 # Preprints
 
-**Crombie TA**, Chikuturudzi C, Cook DE, Andersen EC 2022 [An automated approach to quantify chemotaxis index in Caenorhabditis nematodes](https://www.biorxiv.org/content/10.1101/2022.04.30.490142v1). bioRxiv.
-
 Fouad AD, Churgin MA, Hayden J, Xu J, Park JI, Liu A, Teng C, Sun H, Parrado M, Bowlin P, De La Torre M, **Crombie TA**, Sedore CA, Coleman-Hulbert AL, Johnson E, Philips P, Andersen EC, and Fang-Yen C 2021 [High-throughput imaging of <i>Caenorhabditis elegans</i> aging using collective activity monitoring](https://doi.org/10.1101/2021.10.18.464905). bioRxiv.
 
 # Publications
 
 ### 2022
+
+Widmayer SJ, **Crombie TA**, Nyaanga JN, Evans KS, and  Andersen EC 2022 [<i>C. elegans</i> toxicant responses vary among genetically diverse individuals](https://doi.org/10.1016/j.tox.2022.153292). Toxicology.
+
+Fox BW, Ponomarova O, Lee YU, Zhang G, Giese GE, Walker M, Roberto NM, Na H, Rodrigues PR, Curtis BJ, Kolodziej AR, **Crombie TA**, Zdraljevic S, Yilmaz LS, Andersen EC, Schroeder FC, and Walhout AJM 2022 [<i>C. elegans</i> as a model for inter-individual variation in metabolism](https://doi.org/10.1038/s41586-022-04951-3). Nature. 
+
+**Crombie TA**, Chikuturudzi C, Cook DE, and Andersen EC 2022 [An automated approach to quantify chemotaxis index in <i>C. elegans</i>](https://doi.org/10.17912/micropub.biology.000567). microPublication Biology.
 
 **Crombie TA**, Battlay B, Tanny RE, Evans KS, Buchanan CM, Cook DE, Dilks CM, Stinson LA, Zdraljevic S, Zhang G, Roberto NM, Lee D, Ailion M, Hodgins KA, and Andersen EC 2022 [Local adaptation and spatiotemporal patterns of genetic diversity revealed by repeated sampling of <i>Caenorhabditis elegans</i> across the Hawaiian Islands](https://doi.org/10.1111/mec.16400). Molecular ecology.
 
